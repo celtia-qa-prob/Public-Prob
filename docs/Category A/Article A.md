@@ -1,2 +1,3 @@
 Article A
-Resync check - 05th November
+
+Resync - 21 November - 10.11.1
